@@ -1,9 +1,9 @@
 import express from "express";
-import components from "../controllers/components";
-import users from "../controllers/users";
+import recipesList from "../controllers/recipesList";
+import singleRecipe from "../controllers/singleRecipe";
 const router = express.Router();
 
-router.get("/components", components.getComponents);
-router.get("/users", users.getUsers);
+router.get("/recipes", recipesList.getRecipesList);
+router.get("/recipe/:id", singleRecipe.getSingleRecipe);
 
 export default router;

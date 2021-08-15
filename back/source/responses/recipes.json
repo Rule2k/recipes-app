@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "label": "recipe 1",
+        "ingredients": [{"label": "ingrédient 1", "quantity": "1"}, {"label": "ingrédient 2", "quantity": "2"}, {"label": "ingrédient 3", "quantity": "3"}, {"label": "ingrédient 4", "quantity": "4"}],
+        "image": "www.linktoimg.fr",
+        "steps": [{"label": "step 1", "description": "description 1"}, {"label": "step 2", "description": "description 2"}, {"label": "step 3", "description": "description 3"}, {"label": "step 4", "description": "description 4"}]
+    },
+    {
+        "id": 2,
+        "label": "recipe 2",
+        "ingredients": [{"label": "ingrédient 1", "quantity": "1"}, {"label": "ingrédient 2", "quantity": "2"}, {"label": "ingrédient 3", "quantity": "3"}, {"label": "ingrédient 4", "quantity": "4"}],
+        "image": "www.linktoimg.fr",
+        "steps": [{"label": "step 1", "description": "description 1"}, {"label": "step 2", "description": "description 2"}, {"label": "step 3", "description": "description 3"}, {"label": "step 4", "description": "description 4"}]
+    },
+    {
+        "id": 3,
+        "label": "recipe 3",
+        "ingredients": [{"label": "ingrédient 1", "quantity": "1"}, {"label": "ingrédient 2", "quantity": "2"}, {"label": "ingrédient 3", "quantity": "3"}, {"label": "ingrédient 4", "quantity": "4"}],
+        "image": "www.linktoimg.fr",
+        "steps": [{"label": "step 1", "description": "description 1"}, {"label": "step 2", "description": "description 2"}, {"label": "step 3", "description": "description 3"}, {"label": "step 4", "description": "description 4"}]
+    },
+    {
+        "id": 4,
+        "label": "recipe 4",
+        "ingredients": [{"label": "ingrédient 1", "quantity": "1"}, {"label": "ingrédient 2", "quantity": "2"}, {"label": "ingrédient 3", "quantity": "3"}, {"label": "ingrédient 4", "quantity": "4"}],
+        "image": "www.linktoimg.fr",
+        "steps": [{"label": "step 1", "description": "description 1"}, {"label": "step 2", "description": "description 2"}, {"label": "step 3", "description": "description 3"}, {"label": "step 4", "description": "description 4"}]
+    },
+    {
+        "id": 5,
+        "label": "recipe 5",
+        "ingredients": [{"label": "ingrédient 1", "quantity": "1"}, {"label": "ingrédient 2", "quantity": "2"}, {"label": "ingrédient 3", "quantity": "3"}, {"label": "ingrédient 4", "quantity": "4"}],
+        "image": "www.linktoimg.fr",
+        "steps": [{"label": "step 1", "description": "description 1"}, {"label": "step 2", "description": "description 2"}, {"label": "step 3", "description": "description 3"}, {"label": "step 4", "description": "description 4"}]
+    }
+]
