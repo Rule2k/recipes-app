@@ -1,0 +1,23 @@
+.SingleRecipe {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Ingredients,
+.Steps {
+  display: flex;
+  width: 40rem;
+  justify-content: space-between;
+}
+
+.Ingredients,
+.RecipeLabel {
+  margin-bottom: 1rem;
+}
+
+.ChildGroup {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
